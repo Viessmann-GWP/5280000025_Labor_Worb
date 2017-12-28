@@ -1,0 +1,4 @@
+Id;Default;Deutsch;Englisch;De
+1;Hand;;;
+2;Auto;;;
+;;;;

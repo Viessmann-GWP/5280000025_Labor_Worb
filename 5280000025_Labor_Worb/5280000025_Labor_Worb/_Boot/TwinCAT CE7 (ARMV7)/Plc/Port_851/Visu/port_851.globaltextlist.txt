@@ -1,0 +1,25 @@
+Id;Default
+978;%.1f
+90;%.1f  °C 
+798;%.1f K
+979;%.2f
+607;%d.%m.%y
+68;%dd.MM.yy
+977;%i
+526;%i 
+89;%s
+652;%t%d.%m.%y
+527;:
+700;Admin
+2;ku
+51;Ku
+219;Kunde
+998;Login
+341;Logiut
+0;None
+398;Operator
+372;Service
+766;s_Titel
+91;Techniker
+1;vi
+497;Vi
