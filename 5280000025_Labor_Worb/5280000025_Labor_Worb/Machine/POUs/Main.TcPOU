@@ -11,7 +11,6 @@ VAR
 	Zusatzheizung_0: Zusatzheizung;
 	Zirk_Pumpe_0: Zirk_Pumpe;
 	TWW_SP_0: TWW_SP;
-	Anlageschalter: HS_Bool;
 	Init_0: Init;
 	IOs_0: IOs;
 	AI_to_Druck_0: AI_to_Druck;
@@ -38,121 +37,7 @@ END_VAR
                   <v n="Title">""</v>
                   <v n="Label">""</v>
                   <v n="OutCommented">false</v>
-                  <l2 n="NetworkItems" cet="BoxTreeBox">
-                    <o>
-                      <v n="BoxType">"HS_Bool"</v>
-                      <o n="Instance" t="Operand">
-                        <v n="Operand">"Anlageschalter"</v>
-                        <v n="Type">"HS_Bool"</v>
-                        <v n="Comment">""</v>
-                        <v n="SymbolComment">""</v>
-                        <v n="Address">""</v>
-                        <o n="Flags" t="Flags">
-                          <v n="Flags">0</v>
-                          <v n="Fixed">false</v>
-                          <v n="Extensible">false</v>
-                        </o>
-                        <v n="LValue">false</v>
-                        <v n="Boolean">false</v>
-                        <v n="IsInstance">true</v>
-                        <v n="Id">1606L</v>
-                      </o>
-                      <o n="OutputItems" t="OutputItemList">
-                        <l2 n="OutputItems" cet="Operand">
-                          <n />
-                          <o>
-                            <v n="Operand">""</v>
-                            <n n="Type" />
-                            <v n="Comment">""</v>
-                            <v n="SymbolComment">""</v>
-                            <v n="Address">""</v>
-                            <o n="Flags" t="Flags">
-                              <v n="Flags">0</v>
-                              <v n="Fixed">false</v>
-                              <v n="Extensible">false</v>
-                            </o>
-                            <v n="LValue">true</v>
-                            <v n="Boolean">false</v>
-                            <v n="IsInstance">false</v>
-                            <v n="Id">1608L</v>
-                          </o>
-                        </l2>
-                      </o>
-                      <o n="Flags" t="Flags">
-                        <v n="Flags">0</v>
-                        <v n="Fixed">false</v>
-                        <v n="Extensible">false</v>
-                      </o>
-                      <n n="InputFlags" />
-                      <l2 n="InputItems" cet="BoxTreeOperand">
-                        <o>
-                          <o n="Operand" t="Operand">
-                            <v n="Operand">""</v>
-                            <n n="Type" />
-                            <v n="Comment">""</v>
-                            <v n="SymbolComment">""</v>
-                            <v n="Address">""</v>
-                            <o n="Flags" t="Flags">
-                              <v n="Flags">0</v>
-                              <v n="Fixed">false</v>
-                              <v n="Extensible">false</v>
-                            </o>
-                            <v n="LValue">false</v>
-                            <v n="Boolean">false</v>
-                            <v n="IsInstance">false</v>
-                            <v n="Id">1610L</v>
-                          </o>
-                          <v n="Id">1609L</v>
-                        </o>
-                        <o>
-                          <o n="Operand" t="Operand">
-                            <v n="Operand">""</v>
-                            <n n="Type" />
-                            <v n="Comment">""</v>
-                            <v n="SymbolComment">""</v>
-                            <v n="Address">""</v>
-                            <o n="Flags" t="Flags">
-                              <v n="Flags">0</v>
-                              <v n="Fixed">false</v>
-                              <v n="Extensible">false</v>
-                            </o>
-                            <v n="LValue">false</v>
-                            <v n="Boolean">false</v>
-                            <v n="IsInstance">false</v>
-                            <v n="Id">1612L</v>
-                          </o>
-                          <v n="Id">1611L</v>
-                        </o>
-                      </l2>
-                      <o n="InputParam" t="ParamList">
-                        <l2 n="Names" cet="String">
-                          <v>x_Ein</v>
-                          <v>i_Modus</v>
-                        </l2>
-                        <l2 n="Types" cet="String">
-                          <v>BOOL</v>
-                          <v>INT</v>
-                        </l2>
-                      </o>
-                      <o n="OutputParam" t="ParamList">
-                        <l2 n="Names" cet="String">
-                          <v>x_Aus</v>
-                          <v>x_BM_HS_Aktiv</v>
-                        </l2>
-                        <l2 n="Types" cet="String">
-                          <v>BOOL</v>
-                          <v>BOOL</v>
-                        </l2>
-                      </o>
-                      <v n="CallType" t="Operator">FunctionBlock</v>
-                      <v n="EN">false</v>
-                      <v n="ENO">false</v>
-                      <n n="STSnippet" />
-                      <v n="ContainsExtensibleInputs">false</v>
-                      <v n="ProvidesSTSnippet">false</v>
-                      <v n="Id">1607L</v>
-                    </o>
-                  </l2>
+                  <l2 n="NetworkItems" />
                   <l2 n="Connectors" />
                   <v n="Id">1605L</v>
                 </o>
