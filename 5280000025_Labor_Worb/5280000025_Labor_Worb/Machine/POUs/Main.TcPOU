@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4022.6">
-  <POU Name="Main" Id="{bcf30e2d-0792-4814-9d4c-a58e87c7eb2d}" SpecialFunc="None">
+  <POU Name="Main" Id="{441ac2e8-9660-4794-881f-d60bea035228}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM Main
 VAR
 	KWP_SP_AC_NC_0: KWP_SP_AC_NC;
