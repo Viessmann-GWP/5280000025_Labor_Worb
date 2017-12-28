@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4022.6">
-  <POU Name="IOs" Id="{00da30a0-bb78-439b-b538-d8d9f2717c4d}" SpecialFunc="None">
+  <POU Name="IOs" Id="{177b5a51-d494-48e6-9d4b-4e8c90f63873}" SpecialFunc="None">
     <Declaration><![CDATA[FUNCTION_BLOCK IOs
 VAR_INPUT
 	//850KF3
