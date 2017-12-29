@@ -225,7 +225,7 @@ Id;Default;Deutsch;Englisch;De
 227;Regelparameter Ventil Verdampfer;;;
 228;Ventil Verdampfer;;;
 229;Sollwerte zurücksetzen;;;
-230;Automatik/Aus;;;
+230;Anlage;;;
 231;Wochentag;;;
 232;Uhrzeit;;;
 233;Dauer;;;
