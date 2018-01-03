@@ -278,4 +278,6 @@ Id;Default;Deutsch;Englisch;De
 280;Res;;;
 281;löschen;;;
 282;quittieren;;;
+283;Regelsignal Pumpe;;;
+284;Regelsignal Mischventil;;;
 ;;;;
