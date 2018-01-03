@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4022.6">
-  <POU Name="IOs" Id="{177b5a51-d494-48e6-9d4b-4e8c90f63873}" SpecialFunc="None">
+  <POU Name="IOs" Id="{2593276f-7c06-4336-baea-3e909951fac0}" SpecialFunc="None">
     <Declaration><![CDATA[FUNCTION_BLOCK IOs
 VAR_INPUT
 	//850KF3
@@ -3944,7 +3944,7 @@ END_VAR]]></Declaration>
                           <v n="LValue">false</v>
                           <v n="Boolean">false</v>
                           <v n="IsInstance">true</v>
-                          <v n="Id">273L</v>
+                          <v n="Id">1314L</v>
                         </o>
                         <o n="OutputItems" t="OutputItemList">
                           <l2 n="OutputItems" cet="Operand">
@@ -4069,10 +4069,34 @@ END_VAR]]></Declaration>
                           <v n="Extensible">false</v>
                         </o>
                         <n n="InputFlags" />
-                        <l2 n="InputItems" />
+                        <l2 n="InputItems" cet="BoxTreeOperand">
+                          <o>
+                            <o n="Operand" t="Operand">
+                              <v n="Operand">"'851KF4'"</v>
+                              <v n="Type">"STRING(INT#6)"</v>
+                              <v n="Comment">""</v>
+                              <v n="SymbolComment">""</v>
+                              <v n="Address">""</v>
+                              <o n="Flags" t="Flags">
+                                <v n="Flags">0</v>
+                                <v n="Fixed">false</v>
+                                <v n="Extensible">false</v>
+                              </o>
+                              <v n="LValue">false</v>
+                              <v n="Boolean">false</v>
+                              <v n="IsInstance">false</v>
+                              <v n="Id">1317L</v>
+                            </o>
+                            <v n="Id">1316L</v>
+                          </o>
+                        </l2>
                         <o n="InputParam" t="ParamList">
-                          <l2 n="Names" />
-                          <l2 n="Types" />
+                          <l2 n="Names" cet="String">
+                            <v>s_Titel</v>
+                          </l2>
+                          <l2 n="Types" cet="String">
+                            <v>STRING</v>
+                          </l2>
                         </o>
                         <o n="OutputParam" t="ParamList">
                           <l2 n="Names" cet="String">
@@ -4102,7 +4126,7 @@ END_VAR]]></Declaration>
                         <n n="STSnippet" />
                         <v n="ContainsExtensibleInputs">false</v>
                         <v n="ProvidesSTSnippet">false</v>
-                        <v n="Id">274L</v>
+                        <v n="Id">1315L</v>
                       </o>
                       <v n="Id">526L</v>
                     </o>
