@@ -54,32 +54,14 @@ END_VAR
                         <v n="LValue">false</v>
                         <v n="Boolean">false</v>
                         <v n="IsInstance">true</v>
-                        <v n="Id">1814L</v>
+                        <v n="Id">2520L</v>
                       </o>
                       <o n="OutputItems" t="OutputItemList">
-                        <l2 n="OutputItems" cet="Operand">
-                          <n />
-                          <o>
-                            <v n="Operand">""</v>
-                            <n n="Type" />
-                            <v n="Comment">""</v>
-                            <v n="SymbolComment">""</v>
-                            <v n="Address">""</v>
-                            <o n="Flags" t="Flags">
-                              <v n="Flags">0</v>
-                              <v n="Fixed">false</v>
-                              <v n="Extensible">false</v>
-                            </o>
-                            <v n="LValue">true</v>
-                            <v n="Boolean">false</v>
-                            <v n="IsInstance">false</v>
-                            <v n="Id">1816L</v>
-                          </o>
-                        </l2>
+                        <l2 n="OutputItems" />
                       </o>
                       <o n="Flags" t="Flags">
                         <v n="Flags">0</v>
-                        <v n="Fixed">false</v>
+                        <v n="Fixed">true</v>
                         <v n="Extensible">false</v>
                       </o>
                       <n n="InputFlags" />
@@ -285,7 +267,7 @@ END_VAR
                           <v>i_Modus</v>
                           <v>i_Offset</v>
                           <v>i_Offset_AL_Button</v>
-                          <v>x_WritePersistentData</v>
+                          <v>x_BM_USV</v>
                           <v>i_AdsPort</v>
                         </l2>
                         <l2 n="Types" cet="String">
@@ -302,14 +284,8 @@ END_VAR
                         </l2>
                       </o>
                       <o n="OutputParam" t="ParamList">
-                        <l2 n="Names" cet="String">
-                          <v>s_Status</v>
-                          <v>s_Status_AL_Button</v>
-                        </l2>
-                        <l2 n="Types" cet="String">
-                          <v>STRING</v>
-                          <v>STRING</v>
-                        </l2>
+                        <l2 n="Names" />
+                        <l2 n="Types" />
                       </o>
                       <v n="CallType" t="Operator">FunctionBlock</v>
                       <v n="EN">false</v>
@@ -317,7 +293,7 @@ END_VAR
                       <n n="STSnippet" />
                       <v n="ContainsExtensibleInputs">false</v>
                       <v n="ProvidesSTSnippet">false</v>
-                      <v n="Id">1815L</v>
+                      <v n="Id">2521L</v>
                     </o>
                   </l2>
                   <l2 n="Connectors" />
@@ -3453,7 +3429,7 @@ END_VAR
                           <v n="LValue">false</v>
                           <v n="Boolean">false</v>
                           <v n="IsInstance">true</v>
-                          <v n="Id">2132L</v>
+                          <v n="Id">2522L</v>
                         </o>
                         <o n="OutputItems" t="OutputItemList">
                           <l2 n="OutputItems" cet="Operand">
@@ -3789,8 +3765,8 @@ END_VAR
                         <l2 n="InputItems" cet="BoxTreeOperand">
                           <o>
                             <o n="Operand" t="Operand">
-                              <v n="Operand">""</v>
-                              <n n="Type" />
+                              <v n="Operand">"HWP_SP_0.x_BM_Betrieb"</v>
+                              <v n="Type">"BOOL"</v>
                               <v n="Comment">""</v>
                               <v n="SymbolComment">""</v>
                               <v n="Address">""</v>
@@ -4205,7 +4181,7 @@ END_VAR
                         <n n="STSnippet" />
                         <v n="ContainsExtensibleInputs">false</v>
                         <v n="ProvidesSTSnippet">false</v>
-                        <v n="Id">2133L</v>
+                        <v n="Id">2523L</v>
                       </o>
                       <v n="Id">2189L</v>
                     </o>
@@ -5589,7 +5565,7 @@ END_VAR
                           <v n="LValue">false</v>
                           <v n="Boolean">false</v>
                           <v n="IsInstance">true</v>
-                          <v n="Id">2283L</v>
+                          <v n="Id">2554L</v>
                         </o>
                         <o n="OutputItems" t="OutputItemList">
                           <l2 n="OutputItems" cet="Operand">
@@ -5733,8 +5709,8 @@ END_VAR
                         <l2 n="InputItems" cet="BoxTreeOperand">
                           <o>
                             <o n="Operand" t="Operand">
-                              <v n="Operand">""</v>
-                              <n n="Type" />
+                              <v n="Operand">"HWP_SP_0.x_BM_Betrieb"</v>
+                              <v n="Type">"BOOL"</v>
                               <v n="Comment">""</v>
                               <v n="SymbolComment">""</v>
                               <v n="Address">""</v>
@@ -6062,7 +6038,7 @@ END_VAR
                         <n n="STSnippet" />
                         <v n="ContainsExtensibleInputs">false</v>
                         <v n="ProvidesSTSnippet">false</v>
-                        <v n="Id">2284L</v>
+                        <v n="Id">2555L</v>
                       </o>
                       <v n="Id">2322L</v>
                     </o>
@@ -6096,7 +6072,7 @@ END_VAR
                         <v n="LValue">false</v>
                         <v n="Boolean">false</v>
                         <v n="IsInstance">true</v>
-                        <v n="Id">2342L</v>
+                        <v n="Id">2556L</v>
                       </o>
                       <o n="OutputItems" t="OutputItemList">
                         <l2 n="OutputItems" cet="Operand">
@@ -6541,8 +6517,8 @@ END_VAR
                         </o>
                         <o>
                           <o n="Operand" t="Operand">
-                            <v n="Operand">""</v>
-                            <n n="Type" />
+                            <v n="Operand">"SW_ALZ.Bitzer_Hubkolben_R134a_44DC_14_2Y"</v>
+                            <v n="Type">"SW_Struct"</v>
                             <v n="Comment">""</v>
                             <v n="SymbolComment">""</v>
                             <v n="Address">""</v>
@@ -6650,7 +6626,7 @@ END_VAR
                       <n n="STSnippet" />
                       <v n="ContainsExtensibleInputs">false</v>
                       <v n="ProvidesSTSnippet">false</v>
-                      <v n="Id">2343L</v>
+                      <v n="Id">2557L</v>
                     </o>
                   </l2>
                   <l2 n="Connectors" />
@@ -6682,7 +6658,7 @@ END_VAR
                         <v n="LValue">false</v>
                         <v n="Boolean">false</v>
                         <v n="IsInstance">true</v>
-                        <v n="Id">2388L</v>
+                        <v n="Id">2558L</v>
                       </o>
                       <o n="OutputItems" t="OutputItemList">
                         <l2 n="OutputItems" cet="Operand">
@@ -6901,8 +6877,8 @@ END_VAR
                         </o>
                         <o>
                           <o n="Operand" t="Operand">
-                            <v n="Operand">""</v>
-                            <n n="Type" />
+                            <v n="Operand">"SW_ALZ.Bitzer_Hubkolben_R134a_44DC_14_2Y"</v>
+                            <v n="Type">"SW_Struct"</v>
                             <v n="Comment">""</v>
                             <v n="SymbolComment">""</v>
                             <v n="Address">""</v>
@@ -6984,7 +6960,7 @@ END_VAR
                       <n n="STSnippet" />
                       <v n="ContainsExtensibleInputs">false</v>
                       <v n="ProvidesSTSnippet">false</v>
-                      <v n="Id">2389L</v>
+                      <v n="Id">2559L</v>
                     </o>
                   </l2>
                   <l2 n="Connectors" />
@@ -7340,8 +7316,8 @@ END_VAR
                         </o>
                         <o>
                           <o n="Operand" t="Operand">
-                            <v n="Operand">""</v>
-                            <n n="Type" />
+                            <v n="Operand">"SW_ALZ.Bitzer_Hubkolben_R134a_44DC_14_2Y"</v>
+                            <v n="Type">"SW_Struct"</v>
                             <v n="Comment">""</v>
                             <v n="SymbolComment">""</v>
                             <v n="Address">""</v>
@@ -7721,8 +7697,8 @@ END_VAR
                         </o>
                         <o>
                           <o n="Operand" t="Operand">
-                            <v n="Operand">""</v>
-                            <n n="Type" />
+                            <v n="Operand">"SW_ALZ.Bitzer_Hubkolben_R134a_44DC_14_2Y"</v>
+                            <v n="Type">"SW_Struct"</v>
                             <v n="Comment">""</v>
                             <v n="SymbolComment">""</v>
                             <v n="Address">""</v>
@@ -7986,8 +7962,8 @@ END_VAR
                         </o>
                         <o>
                           <o n="Operand" t="Operand">
-                            <v n="Operand">""</v>
-                            <n n="Type" />
+                            <v n="Operand">"SW_ALZ.Bitzer_Hubkolben_R134a_44DC_14_2Y"</v>
+                            <v n="Type">"SW_Struct"</v>
                             <v n="Comment">""</v>
                             <v n="SymbolComment">""</v>
                             <v n="Address">""</v>
