@@ -4,7 +4,7 @@ Id;Default;Deutsch;Englisch;De
 0;Wärmegewinnung;;;
 1;Wärmepumpe;;;
 2;Wärmesenke;;;
-3;Sollwertmenue;;;
+3;Sollwertmenü;;;
 4;Sollwerte Wärmegewinnung;;;
 6;Erdsonde;;;
 7;Pumpe Grundwasser;;;

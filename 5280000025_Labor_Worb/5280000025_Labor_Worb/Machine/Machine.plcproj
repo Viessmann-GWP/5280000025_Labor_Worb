@@ -35,6 +35,10 @@
     <Compile Include="VisualizationManager.TcVMO">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="VISUs\Infoseite.TcVIS">
+      <SubType>Code</SubType>
+      <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
+    </Compile>
     <Compile Include="VISUs\Benutzerebene\Login.TcVIS">
       <SubType>Code</SubType>
       <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
@@ -144,6 +148,10 @@
       <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
     </Compile>
     <Compile Include="VISUs\Betriebsarten\Wärmesenke\Zusatzheizung\Zusatzheizung_Sollwerte.TcVIS">
+      <SubType>Code</SubType>
+      <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
+    </Compile>
+    <Compile Include="VISUs\Fusszeile_50.TcVIS">
       <SubType>Code</SubType>
       <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
     </Compile>
