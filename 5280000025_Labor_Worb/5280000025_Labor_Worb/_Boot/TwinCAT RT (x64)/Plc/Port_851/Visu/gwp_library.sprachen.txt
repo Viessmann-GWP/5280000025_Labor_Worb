@@ -4,7 +4,7 @@ Id;Default;Deutsch;Englisch;De
 0;Wärmegewinnung;;;
 1;Wärmepumpe;;;
 2;Wärmesenke;;;
-3;Sollwertmenue;;;
+3;Sollwertmenü;;;
 4;Sollwerte Wärmegewinnung;;;
 6;Erdsonde;;;
 7;Pumpe Grundwasser;;;
@@ -225,7 +225,7 @@ Id;Default;Deutsch;Englisch;De
 227;Regelparameter Ventil Verdampfer;;;
 228;Ventil Verdampfer;;;
 229;Sollwerte zurücksetzen;;;
-230;Automatik/Aus;;;
+230;Anlage;;;
 231;Wochentag;;;
 232;Uhrzeit;;;
 233;Dauer;;;
@@ -278,4 +278,6 @@ Id;Default;Deutsch;Englisch;De
 280;Res;;;
 281;löschen;;;
 282;quittieren;;;
+283;Regelsignal Pumpe;;;
+284;Regelsignal Mischventil;;;
 ;;;;
