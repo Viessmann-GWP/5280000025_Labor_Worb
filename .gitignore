@@ -5,20 +5,20 @@
 html/
 
 # TwinCAT 3 projects
-5280000025_Labor_Worb/NotificationTest.sln.~u
-5280000025_Labor_Worb/TrialLicense.tclrs
-5280000025_Labor_Worb/Untitled1/Untitled1.tmc
-5280000025_Labor_Worb/Untitled1/_CompileInfo/
-5280000025_Labor_Worb/Untitled1/_Libraries/beckhoff automation gmbh/tc2_system/3.3.10.0/
-5280000025_Labor_Worb/_Boot/TwinCAT RT (x64)/
-5280000025_Labor_Worb/_Boot/TwinCAT RT (x86)/CurrentConfig.xml
-5280000025_Labor_Worb/_Boot/TwinCAT RT (x86)/CurrentEventMessages.xml
-5280000025_Labor_Worb/_Boot/TwinCAT RT (x86)/Plc/Port_851.app
-5280000025_Labor_Worb/_Boot/TwinCAT RT (x86)/Plc/Port_851.crc
-5280000025_Labor_Worb/_Boot/TwinCAT RT (x86)/Plc/Port_851_boot.tizip
-example/AdsDef.h
-example/AdsLib.h
-example/AdsLib.lib
+*.sln.~u
+*.tclrs
+*.tmc
+*/_CompileInfo/
+*/_Libraries/beckhoff automation gmbh/tc2_system/3.3.10.0/
+*/_Boot/TwinCAT RT (x64)/
+*CurrentConfig.xml
+*CurrentEventMessages.xml
+*Port_851.app
+*Port_851.crc
+*Port_851_boot.tizip
+*AdsDef.h
+*AdsLib.h
+*AdsLib.lib
 *.bin
 
 # User-specific files
