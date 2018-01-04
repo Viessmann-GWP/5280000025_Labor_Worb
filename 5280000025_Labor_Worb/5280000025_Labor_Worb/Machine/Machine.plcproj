@@ -159,10 +159,6 @@
       <SubType>Code</SubType>
       <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
     </Compile>
-    <Compile Include="VISUs\Hauptmenu\Uhr_Einstellen.TcVIS">
-      <SubType>Code</SubType>
-      <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
-    </Compile>
     <Compile Include="VISUs\Home\Home.TcVIS">
       <SubType>Code</SubType>
       <DependentUpon>VisualizationManager.TcVMO</DependentUpon>
