@@ -37,6 +37,8 @@ Id;Default;Deutsch;Englisch;De
 89;%.2f ;;;
 108;%.2f  bar;;;
 324;%.2f bar;;;
+1202;%.4f;;;
+394;%.4f ;;;
 88;%.5f;;;
 1121;%.i;;;
 67;%.i ;;;
@@ -59,6 +61,8 @@ Id;Default;Deutsch;Englisch;De
 43;%imin;;;
 44;%ims;;;
 17;%s;;;
+1411;%s ;;;
+727;%s :;;;
 49;%smin;;;
 48;%sms;;;
 118;%t[;;;
@@ -114,6 +118,7 @@ Id;Default;Deutsch;Englisch;De
 1356;Kachel 1: 0$;55 *** Kachel 2: 201$;55 *** Kachel 3: 2$;55Kachel 3: 604$;55   Kachel 3: 0$;179 *** Kachel 6: 201$;242 *** Kachel 7: 402$;242 *** Kachel 8: 604$;242;;;
 1530;Kachel 1: 0$;55 *** Kachel 2: 201$;55 *** Kachel 3: 402,55 ***  Kachel 4: 603,55;;;
 1507;Kachel 1: 0$;55 *** Kachel 2: 201$;55 *** Kachel 3: 402$;55 *** Kachel 4: 600$;55 ;;;
+973;Kachel 1: 0$;55 *** Kachel 2: 201$;55 *** Kachel 3: 402$;55 *** Kachel 4: 603$;55 ;;;
 1020;Kachel 1: 0$;55 *** Kachel 2: 201$;55 *** Kachel 3: 402$;55 *** Kachel 4: 604$;55   Kachel 3: 0$;179 *** Kachel 6: 201$;242 *** Kachel 7: 402$;242 *** Kachel 8: 604$;242;;;
 18;Kachel 1: 0$;55 *** Kachel 2: 201$;55 *** Kachel 3: 402$;55 *** Kachel 4: 604$;55   Kachel 5: 0$;242 *** Kachel 6: 201$;242 *** Kachel 7: 402$;242 *** Kachel 8: 604$;242;;;
 348;Kachel 1: 0$;55 *** Kachel 2: 201$;55 *** Kachel 3: 402$;55Kachel 3: 604$;55   Kachel 3: 0$;179 *** Kachel 6: 201$;242 *** Kachel 7: 402$;242 *** Kachel 8: 604$;242;;;
@@ -129,9 +134,12 @@ Id;Default;Deutsch;Englisch;De
 272;Kachel 3: 0$;179 *** Kachel 4: 402$;55 ;;;
 1309;Kachel 3: 0$;55 *** Kachel 4: 201$;55 ;;;
 954;Kachel 5: 0$;179 *** Kachel 6: 201$;179 *** Kachel 7: 402,179 ***  Kachel 8: 603,179;;;
+1456;Kachel 5: 0$;179 *** Kachel 6: 201$;179 *** Kachel 7: 402$;179 *** Kachel 8: 603$;179 ;;;
 199;Kachel 5: 0$;303 *** Kachel 6: 402$;303 ;;;
 1012;Kachel 5: 0$;55 *** Kachel 6: 201$;55 *** Kachel 7: 402$;55 *** Kachel 8: 600$;55 ;;;
+429;Kachel 5: 0$;55 *** Kachel 6: 201$;55 *** Kachel 7: 402$;55 *** Kachel 8: 603$;55 ;;;
 269;Kachel 9: 0$;303 *** Kachel 10: 201$;303 *** Kachel 11: 402,303 ***  Kachel 12: 603,303;;;
+932;Kachel 9: 0$;303 *** Kachel 10: 402$;303 ;;;
 1045;Kaltwasser;;;
 37;Karte 01 / 01;;;
 19;Kontaktdaten;;;

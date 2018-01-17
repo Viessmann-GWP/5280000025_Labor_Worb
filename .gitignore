@@ -221,3 +221,6 @@ FakesAssemblies/
 *.bak
 *.opendb
 AdsLib.VC.db
+*.compileinfo
+*.tmc
+*.tpy

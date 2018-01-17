@@ -16,8 +16,10 @@ Id;Default
 219;Kunde
 998;Login
 341;Logiut
+610;Löschen
 0;None
 398;Operator
+519;Quittieren
 372;Service
 766;s_Titel
 91;Techniker

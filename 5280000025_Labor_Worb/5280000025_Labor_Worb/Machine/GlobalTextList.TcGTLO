@@ -91,6 +91,11 @@
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>
+              <v n="TextID">"610"</v>
+              <v n="TextDefault">"Löschen"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
               <v n="TextID">"0"</v>
               <v n="TextDefault">"None"</v>
               <l n="LanguageTexts" t="ArrayList" />
@@ -98,6 +103,11 @@
             <o>
               <v n="TextID">"398"</v>
               <v n="TextDefault">"Operator"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
+            <o>
+              <v n="TextID">"519"</v>
+              <v n="TextDefault">"Quittieren"</v>
               <l n="LanguageTexts" t="ArrayList" />
             </o>
             <o>

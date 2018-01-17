@@ -1,4 +1,4 @@
 Id;Default;Deutsch;Englisch;De
 0;Aus;;;
-2;Auto;;;
+1;Auto;;;
 ;;;;
